@@ -1,1 +1,2 @@
-# Marketing_Strategy_Naturebee_BeeswaxWrap
+# Data-Driven Marketing Strategy for Launching Naturebee's Beeswax Food Wrap
+This project conducts a data-driven marketing analysis to determine the optimal market selection, marketing mix strategy, and STP (Segmentation, Targeting, and Positioning) framework. The goal is to identify the most profitable option for launching the product, target the appropriate customer segment, and establish the ideal final price, all based on detailed calculations.
